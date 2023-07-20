@@ -10,11 +10,11 @@ strictfp class M{
         float w = (float)1000.2;
         float w2  = 100.2f;
         double q = 1000.22666;
-        char t = 'A'; // 2 Byte UNICODE
+        char t = 'M'; // 2 Byte UNICODE
         boolean isAtt = true;
 
         // Reference Type / Address
-        String name = "Amit Srivastava";
+        String name = "Megha Tyagi";
 
 
     }
