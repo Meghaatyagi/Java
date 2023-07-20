@@ -1,4 +1,4 @@
-strictfp class A{
+strictfp class M{
     // IEEE Norms 754
     public static strictfp void main(String[] args) {
         // Data Types
