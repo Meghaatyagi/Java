@@ -5,7 +5,7 @@ public class N {
         b++;
         System.out.println(a);
         System.out.println(b);
-        String name = "Amit";
+        String name = "Megha";
         String name2 = name;
         System.out.println(name.length());
         System.out.println(name2.length());
