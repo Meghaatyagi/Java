@@ -1,4 +1,4 @@
-public class C {
+public class O {
    public static void main(String[] args) {
     // String Literal
     String name = "Amit"; // Pool
